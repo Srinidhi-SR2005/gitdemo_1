@@ -1,2 +1,2 @@
 hello world
-git version 2
+git version 1
